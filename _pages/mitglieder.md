@@ -27,7 +27,7 @@ Universität Freiburg
 Lea Bauer  
 Institut für Länderkunde Leipzig
 
-Christian Bittner  
+[Christian Bittner](http://www.geographie.nat.uni-erlangen.de/personen/cbittner)  
 Institut für Geographie, Universität Erlangen-Nürnberg
 
 [Prof. Dr. Marc Boeckler](https://www.uni-frankfurt.de/45478395/01_portrait)  
